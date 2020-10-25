@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mision de Rescate</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merienda+One&family=Modak&family=Teko&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Yanone+Kaffeesatz:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="EstiloInception.css">
+  <link rel="stylesheet" type="text/css" href="../../css/fontello.css">
+  <link rel="icon" href="../../LOGO WEB SITE1.ico">
+  <link rel="stylesheet" type="text/css" href="../../css/VerMovie.css">
+</head>
+
+<body>
+  <div class="cuerpo">
+    <div class="contenedor">
+      <nav>
+        <a href="../../index.html" class="logo"><img src="../../Imagenes/LOGO FINAL.png" class="logo" title="The Movie House"></a>
+        <ul class="menu">
+          <li class="gral"><a href="../../index.html" class="opciones" title="Inicio">Inicio</a></li>
+          <li class="gral"><a href="#" class="opciones">Categoría</a>
+            <div class="SubContenedor">
+              <span class="icon icon-up-dir"></span>
+              <div class="Categ">
+                <ul>
+                  <li><a href="accion.html" class="cat">Acción</a></li>
+                  <li><a href="../Ciencia Ficcion/cienciaficcion.html" class="cat">Ciencia Ficción</a></li>
+                  <li><a href="../Superheróes/superheroes.html" class="cat">Superhéroes</a></li>
+                </ul>
+              </div>
+
+              <div class="Categ">
+                <ul>
+                  <li><a href="../Animadas/Animadas.html" class="cat">Animada</a></li>
+                  <li><a href="../Comedia/comedia.html" class="cat">Comedia</a></li>
+                  <li><a href="../Terror/terror.html" class="cat">Terror</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="gral"><a href="#" class="opciones">Ingresar</a>
+            <div class="SubContenedor">
+              <span class="icon icon-up-dir"></span>
+              <ul>
+                <li><a href="#" class="cat">Iniciar Sesión</a></li>
+                <li><a href="#" class="cat">Crear Cuenta</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="gral"><a href="../../faq.html" class="opciones" title="Preguntas Frecuentes">FAQ</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="info">
+        <a href="Pelicula/pelicula.html"><p class="titulo" title="Ver Pelicula">El Origen</p></a>
+          <p class="datos">
+            <b id="Link"><a href="Pelicula/Pelicula.html">Ver Película</a></b> 
+            <br>
+            <b>Director:</b> Christopher Nolan 
+            <br>
+            <b>Género:</b> 	Drama, Suspenso,
+            <br>
+            Acción, Ciencia ficción.
+            <br>
+            <b>Lanzamiento:</b> 2010
+            <br> 
+            <b>IMDb:</b> 8.8/10
+        </p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YoHD9XEInc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <p class="sinopsis">
+            <span>Sinopsis</span>
+            <br> <br>
+            Dom Cobb es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarles los secretos de sus subconscientes. Su habilidad lo ha vuelto muy popular en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb obtiene la oportunidad de redimirse cuando recibe una tarea imposible: plantar una idea en la mente de una persona. Si tiene éxito, será el crimen perfecto, pero un enemigo se anticipa a sus movimientos.
+        </p>
+
+        <p class="sinopsis"><span>Reparto</span></p>
+        <div class="reparto">
+          <a href="#"><img src="Reparto/Leonardo Dicaprio.jpg" alt="RLeonardo Dicaprio" title="Leonardo Dicaprio"></a>
+          <a href="#"><img src="Reparto/Joseph Gordon-Levitt.jpg" alt="Joseph Gordon-Levitt" title="Joseph Gordon-Levitt"></a>
+          <a href="#"><img src="Reparto/Ellen Page.jpg" alt="Ellen Page" title="Ellen Page"></a>
+          <a href="#"><img src="Reparto/Tom Hardy.jpg" alt="Tom Hardy" title="Tom Hardy"></a>
+          <a href="#"><img src="Reparto/Cillian Murphy.jpg" alt="Cillian Murphy" title="Cillian Murphy"></a>
+          <a href="#"><img src="Reparto/Marion Cotillard.jpg" alt="Marion Cotillard" title="Marion Cotillard"></a>
+          <a href="#"><img src="Reparto/Ken Watanabe.jpg" alt="Ken Watanabe" title="Ken Watanabe"></a>
+          <a href="#"><img src="Reparto/Michael Caine.jpg" alt="Michael Caine" title="Michael Caine"></a>
+          <a href="#"><img src="Reparto/Dileep Rao.jpg" alt="Dileep Rao" title="Dileep Rao"></a>
+          <a href="#"><img src="Reparto/Tom Berenger.jpg" alt="Tom Berenger" title="Tom Berenger"></a>
+          <a href="#"><img src="Reparto/Lukas Haas.jpg" alt="Lukas Haas" title="Lukas Haas"></a>
+          <a href="#"><img src="Reparto/Pete Postlethwaite.jpg" alt="Pete Postlethwaite" title="Pete Postlethwaite"></a>
+          <a href="#"><img src="Reparto/Talulah Riley.jpg" alt="Talulah Riley" title="Talulah Riley"></a>
+          <a href="#"><img src="Reparto/Claire Geare.jpg" alt="Claire Geare" title="Claire Geare"></a>
+          <a href="#"><img src="Reparto/Magnus Nolan.jpg" alt="Magnus Nolan" title="Magnus Nolan"></a>
+      </div>
+    </div>
+  <div id="pagina">
+  <div id="contenido"></div>
+  <div id="pie">2020 &copy; The Movie House®</div>
+  </div>
+  <center><footer>Creado por: Full Experience®</footer></center>
+  <center><footer>Distribuidos por: Walt Disney Pictures®, 20th Century Studios®, Universal Pictures®, Warner Bros Pictures®, New Line Cinema®, Paramount Pictures®, Lionsgate®, Marvel Entertaiment®, Lucasfilm®, DC Entertaiment®, Sony Pictures Entertaiment®, HBO MAX®, Disney +®, Netflix®, Legendary Pictures®, Syncopy Production®, Skydande Media®, Bad Robot®, WingNut Films®, The Saul Zaentz Company®, DC Comics®, Amblin Entertainment®, U-Drive Productions®, Pixar Animation Studios®, Marvel Studios®, Jason Roberts Productions®, South Pictures®, Icon Entertainment International®, The Ladd Company®, B.H. Finance C.V.®, Icon Productions®, Dreamworks Pictures®, Reliance Entertainment®, New Republic Pictures®, Mogambo®, Neal Street Productions®, Amblin Partners®, Canadian Film or Video Production Tax Credit (CPTC)®, Alibaba Pictures®, Columbia Pictures®, Avi Arad Productions®, Lord Miller®, Pascal Pictures®, Sony Pictures Animation®</footer></center>
+</body>
